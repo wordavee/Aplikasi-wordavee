@@ -1,0 +1,24 @@
+CARA MEMAKAI CAPTION STUDIO DI HP
+================================
+
+A. Agar bisa dibuka seperti aplikasi (disarankan)
+1. Unggah seluruh folder caption-foto-hd ke hosting HTTPS. Bisa memakai Netlify Drop, GitHub Pages, Vercel, atau hosting sendiri.
+2. Buka alamat website dari HP.
+3. Android / Chrome: tekan tombol "Pasang di HP" atau menu ⋮ > Instal aplikasi / Tambahkan ke layar utama.
+4. iPhone / Safari: tekan Bagikan > Tambahkan ke Layar Utama > Tambah.
+5. Setelah terpasang, buka dari ikon Caption Studio pada layar utama.
+
+B. Pemakaian mode Video 9:16 di HP
+1. Tempel link TikTok atau pilih video dari Galeri / File.
+2. Masukkan quotes.
+3. Preview otomatis muncul setelah bagian quotes agar mudah dilihat saat mengatur teks.
+4. Pilih template teks, warna, font, posisi, dan outline.
+5. Gunakan tombol cepat di bawah layar: Preview atau Ekspor.
+6. Setelah ekspor selesai, tekan Bagikan untuk menyimpan ke galeri atau mengirim ke aplikasi lain (jika didukung HP).
+
+CATATAN
+- Gunakan Chrome Android atau Safari iPhone versi terbaru.
+- Impor link TikTok memerlukan internet dan bergantung pada sumber video yang tersedia.
+- Gunakan hanya video milik sendiri atau yang sudah mendapat izin.
+- File lokal tetap diproses di perangkat. Mode video membutuhkan RAM yang cukup; tutup aplikasi lain bila video panjang.
+- PWA / mode aplikasi tidak aktif jika index.html dibuka langsung dari file ZIP. Website harus diakses lewat alamat HTTPS.
